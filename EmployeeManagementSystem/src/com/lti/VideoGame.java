@@ -7,6 +7,6 @@ public class VideoGame {
 	}
 
 	public void candycrush() {
-		System.out.println("candycrush is working..");
+		System.out.println("candycrush is working");
 	}
 }
